@@ -172,18 +172,11 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* consolidated some redundant code here
+previously numerous lines were consumed declaring
+the three individual selectors independently--
+I changed that. */
+.online-reputation-management .social-media-marketing .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
