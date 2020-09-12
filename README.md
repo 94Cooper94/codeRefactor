@@ -6,6 +6,6 @@ Refactored an existing website that included some broken links, improper element
 
 Below I've included a sample image of the >navbar< and an image of some of the page's >aside< content. Enjoy!
 
-![nav_bar](navbarCapture.PNG)
-![main_page](mainContent.PNG)
-![sample_content](sampleField.PNG)
+![nav_bar](./media/navbarCapture.PNG)
+![main_page](./media/mainContent.PNG)
+![sample_content](./media/sampleField.PNG)
