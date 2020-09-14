@@ -9,3 +9,7 @@ Below I've included a sample image of the >navbar< and an image of some of the p
 ![nav_bar](./media/navbarCapture.PNG)
 ![main_page](./media/mainContent.PNG)
 ![sample_content](./media/sampleField.PNG)
+
+## Technologies Used 
+- GitHub & GitHub Pages
+- HTML & CSS
